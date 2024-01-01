@@ -1,0 +1,27 @@
+body{
+    background-color: blanchedalmond;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.box1{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(252, 209, 216);
+}
+.box2{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(252, 209, 216);
+}
+.box3{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(252, 209, 216);
+}
+.box4{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(252, 209, 216);
+}
